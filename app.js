@@ -28,3 +28,4 @@ function loadAll(ids) {
 }
 
 module.exports = { getUser, loadAll, DB_PASSWORD };
+
